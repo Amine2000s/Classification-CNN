@@ -35,9 +35,8 @@ Ce projet met en œuvre un modèle de réseau de neurones convolutifs (CNN) con�
 - Tests avec différentes tailles de filtres et profondeurs dans les couches convolutives.
 ### Quelque Captures d'ecran : 
 ---
-
-## Installation
-
-1. Clonez ce dépôt :
-   ```bash
-   git clone https://github.com/votre-utilisateur/cnn-classification.git
+![User Interface](./CNN architecture.jpg)
+![User Interface](./training-epochs.jpg)
+![User Interface](./plots.jpg)
+![User Interface](./loss plotting.jpg)
+![User Interface](./prediction.png)
