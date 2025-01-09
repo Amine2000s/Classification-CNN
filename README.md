@@ -39,4 +39,4 @@ Ce projet met en œuvre un modèle de réseau de neurones convolutifs (CNN) con�
 ![User Interface](./training-epochs.jpg)
 ![User Interface](./plots.jpg)
 ![User Interface](./lossplotting.jpg)
-![User Interface](./prediction.png)
+![User Interface](./prediction.jpg)
