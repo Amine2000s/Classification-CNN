@@ -24,7 +24,7 @@ Ce projet met en œuvre un modèle de réseau de neurones convolutifs (CNN) con�
 2. **Paramètres** :
    - Fonction de perte : `binary_crossentropy`  
    - Optimiseur : `Adam`  
-   - Nombre d'époques : 10
+   - Nombre d'époques : 50
    - Taille de batch : 32
 3. **Résultats** :  
    - Précision de l'entraînement raisonnable, mais faible précision sur les données de test, révélant un problème de surajustement.
