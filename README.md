@@ -13,7 +13,7 @@ Ce projet met en œuvre un modèle de réseau de neurones convolutifs (CNN) con�
 ## Structure du Projet
 
 - **Code principal** : [CNN-Classification.ipynb](./CNN-Classification.ipynb)  
-- **Données** : Dataset disponible sur [Kaggle](#) ([ajoutez le lien ici](https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image-classification/data)).  
+- **Données** : Dataset disponible sur [Kaggle](#) ([https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image-classification/data]).  
 
 ---
 
