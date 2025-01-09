@@ -35,8 +35,8 @@ Ce projet met en œuvre un modèle de réseau de neurones convolutifs (CNN) con�
 - Tests avec différentes tailles de filtres et profondeurs dans les couches convolutives.
 ### Quelque Captures d'ecran : 
 ---
-![User Interface](./CNN architecture.jpg)
+![User Interface](./CNNarchitecture.jpg)
 ![User Interface](./training-epochs.jpg)
 ![User Interface](./plots.jpg)
-![User Interface](./loss plotting.jpg)
+![User Interface](./lossplotting.jpg)
 ![User Interface](./prediction.png)
